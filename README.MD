@@ -28,5 +28,12 @@ It allows administrators to manage student details, allocate rooms, handle fee p
 5. Test application using web browser (`http://localhost:8080/HostelManagement1`).  
 
 ---
+## 📸 Screenshots
+
+### 🏠 Welcome Page
+![Welcome Page](screenshots/welcome.png)
+
+### 📝 Signup Page
+![Signup Page](screenshots/signup.png)
 
 ## 📂 Project Structure
