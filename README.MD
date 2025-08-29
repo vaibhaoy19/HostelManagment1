@@ -30,10 +30,11 @@ It allows administrators to manage student details, allocate rooms, handle fee p
 ---
 ## 📸 Screenshots
 
-### 🏠 Welcome Page
-![Welcome Page]https://github.com/vaibhaoy19/HostelManagment1/blob/master/Screenshots/Welcome%20Page.png
+### 👋 Welcome Page
+![Welcome Page](https://github.com/vaibhaoy19/HostelManagment1/blob/master/Screenshots/Welcome%20Page.png)
 
 ### 📝 Signup Page
-![Signup Page]https://github.com/vaibhaoy19/HostelManagment1/blob/master/Screenshots/Login%20Page.png
+![Signup Page](https://github.com/vaibhaoy19/HostelManagment1/blob/master/Screenshots/Login%20Page.png)
+ 
 
 ## 📂 Project Structure
