@@ -34,6 +34,6 @@ It allows administrators to manage student details, allocate rooms, handle fee p
 ![Welcome Page](screenshots/welcome.png)
 
 ### 📝 Signup Page
-![Signup Page](Screenshots)
+![Signup Page](Screenshots/Login Page.png)
 
 ## 📂 Project Structure
